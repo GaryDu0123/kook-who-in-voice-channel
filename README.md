@@ -2,6 +2,10 @@
 
 群友偷偷开黑? 看看谁在kook语音
 
+# 总览
+
+  ![image](https://github.com/GaryDu0123/kook-who-in-voice-channel/assets/66729711/c2828c70-ab89-4263-883a-916c8689a352)
+  ![image](https://github.com/GaryDu0123/kook-who-in-voice-channel/assets/66729711/61b3895a-ffe6-46fe-b7af-36e8fc4ce80b)
 
 
 # 安装
@@ -45,12 +49,6 @@ modules/
 
 
 在`MODULES_ON`中添加`kook-who-in-channel`
-
-# 总览
-
-  ![image](https://github.com/GaryDu0123/kook-who-in-voice-channel/assets/66729711/c2828c70-ab89-4263-883a-916c8689a352)
-  ![image](https://github.com/GaryDu0123/kook-who-in-voice-channel/assets/66729711/61b3895a-ffe6-46fe-b7af-36e8fc4ce80b)
-
 
 # 目前的局限性
 
