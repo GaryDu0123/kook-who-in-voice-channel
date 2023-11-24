@@ -21,6 +21,8 @@ header = {
 
 help_ = """
 看看谁在kook语音?
+[绑定kook服务器ID] 绑定对应的服务器id, 一个群只能绑定一个
+[谁在语音] 看看谁在kook语音
 """.strip()
 
 sv = Service('看看谁在kook语音', enable_on_default=False, help_=help_, manage_priv=priv.SUPERUSER)
@@ -197,12 +199,3 @@ def im2base64str(im) -> str:
     base64_str = f"base64://{base64.b64encode(io.getvalue()).decode()}"
     return base64_str
 
-
-# print(requests.post('https://www.kookapp.cn/api/v3/message/create', headers=header,
-#                     data={'guild_id': '2691112685935799',
-#                           "content": str(t),
-#                           'channel_id': '2811696139422157'
-#                           }).json())
-
-if __name__ == '__main__':
-    kook_who_in_voice_channel()
