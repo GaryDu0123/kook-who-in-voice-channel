@@ -9,7 +9,7 @@
 ## 将项目源代码下载或者clone到本地
 
 ```bash
-git clone https://github.com/GaryDu0123/kook-who-in-channel.git
+git clone https://github.com/GaryDu0123/kook-who-in-voice-channel.git
 ```
 
 ## 将解压出来的文件夹放到`moudules`目录下
