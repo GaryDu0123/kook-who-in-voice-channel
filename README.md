@@ -37,7 +37,7 @@ modules/
 
 
 2. 复制bot的token填入到`kook_channel_voice.py`中的`KOOK_BOT_TOKEN`中
-  ![image](https://github.com/GaryDu0123/kook-who-in-voice-channel/assets/66729711/ea0d081c-6688-422a-b322-3c12e449c6ea)
+  ![image](https://github.com/GaryDu0123/kook-who-in-voice-channel/assets/66729711/b6310213-956e-45e8-ae05-5c55b759d8af)
 
 3. 将kook bot加入到需要查看语音频道的kook服务器中
 
