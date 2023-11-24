@@ -71,10 +71,14 @@ help_ = """
 ## 绑定kook服务器ID
 
 1. 打开kook的开发者模式
+   
    ![image](https://github.com/GaryDu0123/kook-who-in-channel/assets/66729711/d24d879a-59ba-4d6e-8f17-59f049fc64b4)
-2. 右键kook服务器头像, 选择复制ID
+   
+3. 右键kook服务器头像, 选择复制ID
+   
    ![image](https://github.com/GaryDu0123/kook-who-in-channel/assets/66729711/696bcd8d-e6db-43ef-9d9a-d5549847c91b)
-3. 在QQ群中发送`绑定kook服务器ID XXXXXXXXXXXXXXXX` X为你实际的ID
+   
+5. 在QQ群中发送`绑定kook服务器ID XXXXXXXXXXXXXXXX` X为你实际的ID
 
 ## 谁在语音
 
